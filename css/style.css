@@ -1,0 +1,58 @@
+.First {
+    display: block;
+    text-align: center;
+    color:White;
+    background-color:black;
+    height:50px;
+    position:static;
+}
+.Second {
+    display: block;
+    text-align: center;
+    margin: 20px;
+    
+}
+.Photo {
+    display: inline;
+}
+.Photo2 {
+    display: block;
+    padding: 30px;
+    
+}
+.Text {
+    Text-align: left;
+    display: inline-block;
+    position: relative;
+    vertical-align: top;
+    font-family: sans-serif;
+    font-weight: 700;
+    padding-left: 10px;
+ }
+.Every {
+    background-color:  antiquewhite;
+}
+
+.Kidst {
+    font-family: sans-serif;
+    font-weight: 700;
+    padding: 5px;
+}
+.Photo3 {
+  display: block;
+ }
+.Footer {
+   position:static;
+   display: block;
+   background-color:black;
+   height: 50px;
+   color: white;
+   font-weight:800;
+}
+.link :hover {
+    font-weight:700;
+    transition: 0.5s;
+}
+.f {
+  font-weight: 900;
+}
